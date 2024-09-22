@@ -11,9 +11,10 @@ if not os.path.exists('data'):
     os.makedirs('data')
 
 # Reddit API credentials
-reddit = praw.Reddit(client_id='gqD9O6hY1CKde42yx19NqA',
-                     client_secret='hV7MEvOh4p054zJN82DgOVpS3cHFMA',
-                     user_agent='Spare-Leadership4473')
+reddit = praw.Reddit(client_id='YOUR_CLIENT_ID',
+                     client_secret='YOUR_CLIENT_SECRET',
+                     user_agent='YOUR_USER_AGENT')
+
 
 def scrape_reddit(subreddit_name, limit=100):
     subreddit = reddit.subreddit(subreddit_name)
