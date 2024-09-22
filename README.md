@@ -74,8 +74,6 @@ Replace YOUR_CLIENT_ID, YOUR_CLIENT_SECRET, and YOUR_USER_AGENT with your actual
 
 • The model.py file builds and evaluates a machine learning model using the scraped data.
 
-• The analysis.ipynb notebook contains steps for data preprocessing, sentiment analysis, and model evaluation.
-
 ## Model Evaluation
 The model's performance is evaluated using the following metrics:
 
