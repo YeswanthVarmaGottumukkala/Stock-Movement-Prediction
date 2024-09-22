@@ -3,6 +3,9 @@
 ## Overview
 This project aims to predict stock movements based on discussions from the Reddit platform. By scraping data from the r/stocks subreddit, performing sentiment analysis, and building a machine learning model, we can gain insights into potential stock price trends.
 
+### ! This is important for understanding the model's performance and functionality!
+For further analysis and to see the code in action, you can view my [Google Colab notebook](https://colab.research.google.com/drive/1AVFerHnPKNKTxCwzRFKl3llfdJ2p3n-3?usp=drive_link).
+
 ## Table of Contents
 - [Requirements](#requirements)
 - [Setup Instructions](#setup-instructions)
