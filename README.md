@@ -19,7 +19,6 @@ For further analysis and to see the code in action, you can view my [Google Cola
 - Libraries:
   - `pandas`
   - `praw`
-  - `xgboost`
   - `scikit-learn`
   - `textblob`
   - `jupyter`
